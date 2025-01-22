@@ -10,7 +10,7 @@
 
 :root {
 
-    --cor-verde: #49a949;
+    --cor-verde: #49a09d;
     --cor-lilas: #5f2c82;
 }
 
@@ -48,7 +48,7 @@ section#login {
 }
 
 section#login > div#foto {
-    background: var(--cor-lilas) url(../imagens/metal.jpg) right bottom ;
+    background: var(--cor-lilas) url(../imagens/metal.jpg) left bottom ;
     background-size: cover;
     height: 200px;
     display: block;
